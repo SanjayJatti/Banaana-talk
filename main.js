@@ -14,7 +14,7 @@ function errorHandler(error) {
 
 function buttonClickHandler(event){
     console.log("clicked!");
-    var input= translateInput.Value;
+    var input= translateInput.value;
     console.log(input);
     var finalURL = constructURL(input);
     console.log(finalURL);
