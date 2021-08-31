@@ -17,6 +17,7 @@ nav{
     text-align: center;
 }
 #nav-heading{
+    font-weight: bold;
     padding: 1rem;
     font-size: 2rem;
 }
@@ -60,6 +61,7 @@ footer{
 }
 #footer-heading{
     font-size: x-large;
+    font-weight: bold;
 }
 footer p{
     max-width: var(--width-break);
